@@ -123,7 +123,7 @@ Os resultados demonstram que o modelo foi capaz de classificar corretamente a gr
 
 <img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/d9ac9351-7480-410f-aaaa-78c3d889c74e" />
 
-
+A matriz de confusão permite visualizar os acertos e erros do modelo durante a classificação dos níveis de risco ambiental. Analisando os resultados, é possível perceber que o modelo teve um bom desempenho geral, principalmente na identificação das regiões classificadas como Baixo Risco. As categorias Médio e Alto Risco também apresentaram resultados satisfatórios, demonstrando que o modelo conseguiu aprender os padrões presentes nos dados utilizados para o treinamento.
 
 
 
@@ -131,7 +131,7 @@ Os resultados demonstram que o modelo foi capaz de classificar corretamente a gr
 
 <img width="700" height="509" alt="image" src="https://github.com/user-attachments/assets/a5647ed9-52af-4ee9-815b-780a86be1bf8" />
 
-
+O gráfico de importância das variáveis mostra quais fatores tiveram maior peso na tomada de decisão do modelo. Entre todas as variáveis analisadas, o índice de vegetação foi o que mais influenciou a classificação do risco ambiental. Além dele, fatores como temperatura, umidade e quantidade de focos de calor também tiveram participação significativa nos resultados.
 
 
 
